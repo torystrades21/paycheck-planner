@@ -1,7 +1,7 @@
 // Keeps Paycheck Planner working with no internet. The app files are served from the phone's own
 // copy first and refreshed quietly when online, so the installed app keeps opening even if the
 // website it came from ever goes away. Budgets are never sent anywhere; they stay in the browser.
-const VERSION = 'paycheck-planner-2026-09-24';
+const VERSION = 'paycheck-planner-20260924095146';
 const APP_FILES = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png',
   './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];
 
